@@ -29,3 +29,7 @@ do
 done
 
 popd
+
+pushd /notebooks
+ln -s /storage/
+popd
